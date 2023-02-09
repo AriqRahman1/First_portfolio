@@ -1,0 +1,34 @@
+.head{
+    width: 100%;
+}
+#head_text{
+     font-size: 60px;
+     text-align: right;
+     position: relative;
+     bottom: 600px;
+     right: 100px;
+     color: white;
+}
+#head_des{
+    text-align: right;
+     position: relative;
+     font-weight: 100;
+     bottom: 630px;
+     right: 100px;
+     color: white;
+}
+#head_btn{
+     padding: 15px;
+     border: 2px solid black;
+     border-radius: 8px;
+     color: rgb(255, 255, 255);
+}
+#btn_text:hover{
+    color: rgb(153, 42, 42);
+}
+
+#btn_text{
+    color: rgb(35, 145, 240);
+    font-size: 20px;
+    font-weight: 700;
+}
