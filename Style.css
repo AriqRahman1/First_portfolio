@@ -21,13 +21,14 @@ html,body{
      font-family:work sans-serif;
 }
 #head_des{
-    text-align: right;
+     text-align: right;
      position: relative;
      font-weight: 100;
      bottom: 630px;
      color: white;
      text-align: start;
      margin-left: 770px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #head_btn{
      padding: 15px;
