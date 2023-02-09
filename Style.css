@@ -19,8 +19,8 @@
 }
 #head_btn{
      padding: 15px;
-     border: 2px solid black;
-     border-radius: 8px;
+     border: 0 solid white;
+     border-radius: 6px ;
      color: rgb(255, 255, 255);
 }
 #btn_text:hover{
@@ -31,4 +31,34 @@
     color: rgb(35, 145, 240);
     font-size: 20px;
     font-weight: 700;
+}
+
+/* main work */
+
+#main_img{
+    position: relative;
+    bottom: 600px;
+    margin-left: 150px;
+    width: 500px;
+}
+#main_text{
+    text-align: center;
+    margin-left: 310px;
+    font-size: 50px;
+    font-weight:bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#main_des{
+    margin-left: 680px;
+}
+#main_points{
+    margin-left: 680px;
+}
+#main_points>li{
+    padding: 10px;
+    font-size:medium;
+}
+.main>p{
+    font-weight: 500;
+
 }
